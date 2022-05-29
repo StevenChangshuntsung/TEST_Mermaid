@@ -1,0 +1,20 @@
+Mermaid Markdown：ER 圖不呈現屬性 (#300067) · 問題 · GitLab.org / GitLab · GitLab
+https://gitlab.com/gitlab-org/gitlab/-/issues/300067
+
+Online FlowChart & Diagrams Editor - Mermaid Live Editor
+https://mermaid-js.github.io/mermaid-live-editor/edit#pako:eNp1kcuOwjAMRX8lypr-QHcj6AKJx4jHbjYmMchSk3QcZ6Sq5d8n0CJgqvEmujc3OrbTaRMs6lIjLwguDO7Lq1zz4_6wXVc71fdFETq13S2yKFVTg8H4J9MN-lZRmPxFeXA4MU2KsknuhDy5imgkjPZ1OAbiHd-r1XJTFctDtc4tmOAFyMfX2EsH5EUFtsj_oCzW9IPcfljLGOMb84mZjtRwsMnIPK_rHfadwAtJ-3TPdQDJD8jgJ_LRk4wUPdMO2QHZvPHuJlNjQbCylMfX5RnqiDMNScK-9UaXwgkfofF_xtT1F6mPiXs
+
+Entity Relationship Diagram
+https://mermaid-js.github.io/mermaid/#/entityRelationshipDiagram
+
+實體關聯性模型圖 ER/EER Diagram - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天
+https://ithelp.ithome.com.tw/articles/10270611
+
+Markdown系列mermaid美人魚之Flowcharts流程圖 - 台部落
+https://www.twblogs.net/a/5d1228dfbd9eee1e5c8227a9
+
+Week28 - 讓你心裡的邏輯具現化的念能力工具 Mermaid [Server的終局之戰系列] - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天
+https://ithelp.ithome.com.tw/articles/10234553
+
+superj80820/mermaid-js-converter
+https://github.com/superj80820/mermaid-js-converter
