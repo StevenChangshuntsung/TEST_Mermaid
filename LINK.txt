@@ -18,3 +18,21 @@ https://ithelp.ithome.com.tw/articles/10234553
 
 superj80820/mermaid-js-converter
 https://github.com/superj80820/mermaid-js-converter
+
+二、個體關係模型 (ER model) - twelvefish - Medium
+https://medium.com/twelvefish/二-個體關係模型-er-model-35920fb819d9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
